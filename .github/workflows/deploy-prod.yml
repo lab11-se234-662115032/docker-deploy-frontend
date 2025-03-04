@@ -1,3 +1,4 @@
+#9999
 name: Deploy frontend application
 'on':
   push:
