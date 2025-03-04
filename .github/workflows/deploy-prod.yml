@@ -1,4 +1,5 @@
 #9999
+#test
 name: Deploy frontend application
 'on':
   push:
